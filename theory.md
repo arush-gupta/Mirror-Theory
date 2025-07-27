@@ -112,11 +112,3 @@ But that’s rarely how healing works. The loop is rarely closed externally.
 5. **Turn Inward**  
    Complete the loop inside. Learn to say to yourself:  
    > “You exist. You matter. You were never too much or too little. I see you now.”
-"""
-
-# Save to a file
-file_path = "/mnt/data/theory.md"
-with open(file_path, "w") as f:
-    f.write(theory_md_content)
-
-file_path
