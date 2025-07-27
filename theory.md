@@ -67,13 +67,15 @@ In adulthood, this creates a *double bind*:
 
 #### 4. **The False Self vs. True Self Conflict**
 
-The False Self is the persona we construct to gain mirroring from others — polished, agreeable, self-silencing, or high-performing.  
+The False Self is a split-persona we construct — one part naturally mirrors others, and the other wears a mask shaped by society: polished, agreeable, self-silencing, or high-performing.  
 But it is born from a place of fear:  
 > “If I show who I truly am, they will leave.”
 
 The True Self remains buried — quiet, but aching to be seen.
 
-The longer we live from the False Self, the more **negative self-talk** accumulates. We hate ourselves for not being authentic, yet fear what might happen if we become real.
+The longer we live from the False Self, the more **negative self-talk** accumulates.  
+We begin to resent the part of us that mirrors others — because it reminds us of how our natural self was once rejected or shamed by family, community, or culture.  
+And we feel trapped in self-loathing — caught between the fear of being unloved if we show up as real, and the pain of never being seen as we are.
 
 ---
 
