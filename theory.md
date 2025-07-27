@@ -42,6 +42,8 @@ When a child grows up without being mirrored properly, they often:
 This creates a psychological "open loop" — the mind keeps searching for completion, a final moment where someone will say:  
 > “Yes. I see you. You're valid. You matter. You were never wrong for being you.”
 
+Because when a child grows up in an environment where their preferences, feelings, or possessions are not mirrored—seen, celebrated, or protected—they begin to associate value with *what others desire*, not what they desire. If others damage, ignore, or override what’s “theirs,” the child internalizes the belief that nothing is truly theirs unless others also want, approve of, or admire it. Over time, this erodes a sense of personal ownership. The child becomes attuned to external validation, not internal resonance. Ownership becomes performative: *“It’s mine if others want it too,”* rather than, *“It’s mine because I love it.”*
+
 ---
 
 #### 3. **Mirroring and Power Dynamics**
