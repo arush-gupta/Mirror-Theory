@@ -5,7 +5,9 @@
 
 ### **Overview**
 
-The Theory of Mirroring posits that every human being, particularly in early childhood, seeks *attunement* — to be *mirrored* by their caregivers and peers. When this mirroring is absent, distorted, inconsistent, or power-laden, the child develops internal compensations: negative self-beliefs, people-pleasing behaviors, or a compulsive desire to reflect others’ needs rather than express their own.
+The Theory of Mirroring posits that every human being, especially in early childhood, seeks *attunement* — to be *mirrored* by caregivers and peers in order to coregulate. Mirroring is the foundational mechanism through which emotional states are understood, validated, and soothed. 
+
+When this mirroring is absent, inconsistent, distorted, or power-laden, the child develops internal compensations: negative self-beliefs, people-pleasing behaviors, or a compulsive tendency to reflect others’ needs rather than express their own.
 
 In adulthood, these internalized distortions manifest in relationships through attempts to “complete the original mirroring loop” — to finally be validated by someone who resembles the original source of absence or injury.
 
